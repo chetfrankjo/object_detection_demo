@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Disks</folder>
+	<filename>20230715_204027.jpg</filename>
+	<path>C:\Users\legos\OneDrive\Documents\Jackson\FTC\Training Images\Disks\20230715_204027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>driver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>800</xmin>
+			<ymin>1558</ymin>
+			<xmax>2067</xmax>
+			<ymax>2635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>putter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2278</xmin>
+			<ymin>965</ymin>
+			<xmax>3282</xmax>
+			<ymax>1732</ymax>
+		</bndbox>
+	</object>
+</annotation>
